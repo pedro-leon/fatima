@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -430,8 +431,8 @@ h6,
 }
 #ext_menu-4 .navbar-caption {
   color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
 }
 #ext_menu-4 .navbar-toggler {
   color: #efefef;
@@ -488,6 +489,13 @@ h6,
 #ext_menu-4 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-4 A {
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box8-y .mbr-section-title,
+#msg-box8-y p {
+  color: #fff;
+}
 #pricing-table2-b .mbr-plan-header,
 #pricing-table2-b .mbr-plan-body {
   background-color: #f4f4f4;
@@ -515,7 +523,7 @@ h6,
   color: #ffffff;
 }
 #contacts1-d P {
-  font-size: 16px;
+  font-size: 15px;
   text-align: center;
 }
 #footer1-f P {
@@ -523,13 +531,14 @@ h6,
   color: #ffffff;
 }
 
+
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-o .navbar-caption {
   color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
 }
 #ext_menu-o .navbar-toggler {
   color: #efefef;
@@ -586,11 +595,21 @@ h6,
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-o A {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s .mbr-section-title {
+  color: #ffffff;
+}
 #contacts1-p STRONG {
   color: #ffffff;
 }
 #contacts1-p P {
-  font-size: 16px;
+  font-size: 15px;
   text-align: center;
 }
 #footer1-q P {
@@ -598,13 +617,14 @@ h6,
   color: #ffffff;
 }
 
+
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-l .navbar-caption {
   color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
 }
 #ext_menu-l .navbar-toggler {
   color: #efefef;
@@ -661,11 +681,21 @@ h6,
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-l A {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u .mbr-section-title {
+  color: #ffffff;
+}
 #contacts1-m STRONG {
   color: #ffffff;
 }
 #contacts1-m P {
-  font-size: 16px;
+  font-size: 15px;
   text-align: center;
 }
 #footer1-n P {
@@ -673,13 +703,14 @@ h6,
   color: #ffffff;
 }
 
+
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
 #ext_menu-i .navbar-caption {
   color: #ffffff;
-  font-family: 'Slabo 27px', serif;
-  font-size: 36px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 46px;
 }
 #ext_menu-i .navbar-toggler {
   color: #efefef;
@@ -736,11 +767,21 @@ h6,
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#ext_menu-i A {
+  font-family: 'Raleway', sans-serif;
+}
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w .mbr-section-title {
+  color: #ffffff;
+}
 #contacts1-j STRONG {
   color: #ffffff;
 }
 #contacts1-j P {
-  font-size: 16px;
+  font-size: 15px;
   text-align: center;
 }
 #footer1-k P {
