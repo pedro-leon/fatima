@@ -492,7 +492,7 @@
           "subtitle": "<b>Envíame tus consultas o dudas y te responderé en breve</b><br><b>También puedes llamarme o enviarme un mensaje de Whatsapp al 649 97 02 63&nbsp;<br>y por correo electrónico a <a href=\"mailto:fatima@enfermeraencordoba.com\" class=\"text-info\">fatima@enfermeraencordoba.com</a></b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR FORMULARIO</a>",
           "form": {
-            "action": "enfermeraencordobaweb@gmail.com",
+            "action": "fatima@enfermeraencordoba.com",
             "alerts": {
               "success": "¡Gracias por completar el formulario!"
             },
