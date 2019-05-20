@@ -100,7 +100,7 @@
                 "title": "<br>ENFERMERA A DOMICILIO EN CÓRDOBA",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "¡Hola! Soy Fátima Cohen, enfermera a domicilio en la ciudad de Córdoba y ofrezco mis servicios para&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tengo disponibilidad vulputate magna a, iaculis lorem y le ofrezco una atención de calidad cómodamente en su casa  sin necesidad de desplazarse.",
+                "text": "¡Hola! Soy Fátima Cohen, enfermera a domicilio en Córdoba y ofrezco mis servicios para&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tengo disponibilidad vulputate magna a, iaculis lorem y le ofrezco una atención de calidad cómodamente en su casa  sin necesidad de desplazarse.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-a\" data-toolbar=\"-mbrBtnMove\">MIS SERVICIOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">CONTÁCTAME</a>"
               }
             ]
